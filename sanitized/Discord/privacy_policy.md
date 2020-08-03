@@ -6,7 +6,7 @@ Last updated and effective: June 23, 2020
 WELCOME TO DISCORD!
 ===================
 
-[pookie](#information-we-collect)
+[pookie](about:blank#information-we-collect)
 
 Discord, Inc. provides a social online and mobile chat platform via the Discord website (the “Site”), the Discord application (the “App”) and related Internet services (collectively, the “Service(s)”). The Service is operated by Discord, Inc. (the “Company”, “we” or “us”) for users of the Service (“you”). This Privacy Policy sets forth our policy with respect to information that is collected from visitors to the Site and users of the App and/or the Services. Under applicable law, Discord, Inc. is the “data controller” of personal data collected through the Services.
 
